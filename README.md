@@ -8,6 +8,6 @@ Amazon Linux docker images with additional packages pre-installed
 
 Amazon Linux 2016.09 with the following additional packages installed:
 ```
-git rpm-build python-virtualenv python-devel ruby ruby-devel rubygems gcc make
+git rpm-build python27-virtualenv python27-devel python27-pip ruby ruby-devel rubygems gcc make
 ```
 along with the fpm gem
