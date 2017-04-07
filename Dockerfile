@@ -1,4 +1,4 @@
-FROM ambakshi/amazon-linux:2016.03
+FROM ambakshi/amazon-linux:2015.09
 
 RUN yum install -y yum-plugin-ovl
 

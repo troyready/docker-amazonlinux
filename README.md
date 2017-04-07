@@ -19,3 +19,11 @@ Amazon Linux 2016.03 with the following additional packages installed:
 aws-cli git rpm-build python27-virtualenv python27-devel python27-pip ruby ruby-devel rubygems gcc make
 ```
 along with the fpm gem
+
+## 2015.09-fpm
+
+Amazon Linux 2015.09 with the following additional packages installed:
+```
+aws-cli git rpm-build python27-virtualenv python27-devel python27-pip ruby ruby-devel rubygems gcc make
+```
+along with the fpm gem
